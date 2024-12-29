@@ -18,7 +18,9 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
+
 I have created a navigation bar at the top of the page to help users access each section easily.
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
@@ -35,6 +37,8 @@ GIF created with LICEcap
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+The challenges I encountered while building the app included learning how to implement data from a JSON file and utilizing various JavaScript operations, such as destructuring and the spread operator.
 
 ## License
 
